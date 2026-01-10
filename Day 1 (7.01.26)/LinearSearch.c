@@ -21,3 +21,12 @@ int main() {
 
     return 0;
 }
+
+//OUTPUT OF THE ABOUVE CODE:
+/*
+Checking element 4 at position 1
+Checking element 7 at position 2
+Checking element 1 at position 3
+Checking element 9 at position 4
+Element found at position 4
+*/
