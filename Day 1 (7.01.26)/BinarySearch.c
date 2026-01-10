@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a[] = {1, 3, 5, 7, 9};
+    int a[] = {5, 9, 17, 21, 25};
     int n = 5;
     int key = 9; 
     int low = 0, high = n - 1, mid;
@@ -31,3 +31,11 @@ int main() {
 
     return 0;
 }
+//OUTPUT OF THE ABOUVE CODE:
+/*
+Step 1: low=0 high=4 mid=2 checking 17
+Step 2: low=0 high=1 mid=0 checking 5
+Step 3: low=1 high=1 mid=1 checking 9
+Element found at position 2
+*/
+
