@@ -1,4 +1,3 @@
-# DAA-Daily-Programs
 # DAA – Design and Analysis of Algorithms
 Daily class-performed programs for the subject DAA.
 
